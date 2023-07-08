@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+.first{
+    position:absolute;
+    left:450px;
+    width:50%;
+}
+label{
+    position: absolute;
+    left:450px;
+}
+button{
+    position: absolute;
+    left:450px;
+    width: 50%;
+}
+select{
+    position: absolute;
+    left:450px;
+    width:50%;
+}
